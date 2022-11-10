@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 Frontend developer 황도은입니다.
 
 🔭 현재 진행 중인 프로젝트는 [NextJS_Trello](https://next-trello-ochre.vercel.app/), [왔썹](https://github.com/harseille/WhatSsub), [deeWork](https://dee0518.github.io/deeWork/) 이고요<br>
