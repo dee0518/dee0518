@@ -1,7 +1,7 @@
 ### Hi there 👋
 Frontend developer 황도은입니다.
 
-🔭 현재 진행 중인 프로젝트는 [NextJS_Trello](https://next-trello-ochre.vercel.app/), [왔썹](https://github.com/harseille/WhatSsub) 이고요<br>
+🔭 현재 진행 중인 프로젝트는 [NextJS_Trello](https://next-trello-ochre.vercel.app/), [왔썹](https://github.com/harseille/WhatSsub), [deeWork](https://dee0518.github.io/deeWork/) 이고요<br>
 🌱 열공 중에 있는 건 **Typescript, Next.js** <br>
 📝 요렇게 [https://velog.io/@dee0518](https://velog.io/@dee0518) 통해 정리하고 있습니다 <br>
 📄 제가 궁금하시다면 [dee_resume](https://maroon-target-727.notion.site/Dee-Frontend-Developer-b64e45d1d69a40b08ca76b7d2e5b1744) 봐주세요!
