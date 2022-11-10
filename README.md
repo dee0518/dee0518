@@ -1,7 +1,7 @@
 ### Hi there 👋
 Frontend Developer 황도은입니다
 
-
+<!-- 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <br>
@@ -12,7 +12,7 @@ Frontend Developer 황도은입니다
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-f5f5f5?style=flat-square&logo=notion&logoColor=black">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"> -->
 
 
 <!--
